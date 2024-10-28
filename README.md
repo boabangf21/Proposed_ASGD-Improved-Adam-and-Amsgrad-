@@ -28,8 +28,5 @@ approaches in terms of generalization performance.
 
 
 Francis Boabang, ”Enhanced Stochastic Gradient Descent Algorithm for Machine Learning Training
-and Its Application in Remote Surgical Gesture Recognition,” IEEE Transactions on Image Processing,
-Revised based on the comments from IEEE internet of Things and resubmitted to IEEE Transactions
-on Image Processing. Please, see the supplementary page for detail comments from IEEE Internet of
-Things. Based on the recommendation of the IEEE Transactions on Image Processing, the paper has
-been resubmitted to the IEEE Transactions on Neural Networks and Learning Systems.
+and Its Application in Remote Surgical Gesture Recognition,” under review at 
+IEEE Transactions on Neural Networks and Learning Systems.
