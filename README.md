@@ -1,5 +1,7 @@
 
 Abstract
+
+
 The recognition of surgical gestures holds significant
 importance for enhancing the intelligence of next-generation
 robot-assisted or remote robotic surgery systems. To associate specific surgical gestures with corresponding surgical tools, a learning
