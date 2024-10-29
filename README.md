@@ -27,6 +27,8 @@ illustrate that our proposed optimizer surpasses state-of-the-art
 approaches in terms of generalization performance.
 
 
+Citation 
+
 Francis Boabang, ”Enhanced Stochastic Gradient Descent Algorithm for Machine Learning Training
 and Its Application in Remote Surgical Gesture Recognition,” under review at 
 IEEE Transactions on Neural Networks and Learning Systems.
@@ -35,3 +37,6 @@ IEEE Transactions on Neural Networks and Learning Systems.
 
 Prerequisites:
 Tensorflow version 2.13.1
+
+
+Citation
