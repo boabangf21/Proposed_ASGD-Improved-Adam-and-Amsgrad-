@@ -1,5 +1,5 @@
 
-Abstract
+**Abstract**
 
 
 The recognition of surgical gestures holds significant
@@ -27,7 +27,7 @@ illustrate that our proposed optimizer surpasses state-of-the-art
 approaches in terms of generalization performance.
 
 
-Citation 
+**Citation** 
 
 Francis Boabang, ”Enhanced Stochastic Gradient Descent Algorithm for Machine Learning Training
 and Its Application in Remote Surgical Gesture Recognition,” under review at 
@@ -35,8 +35,7 @@ IEEE Transactions on Neural Networks and Learning Systems.
 
 
 
-Prerequisites:
+**Prerequisites**:
 Tensorflow version 2.13.1
 
 
-Citation
