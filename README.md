@@ -33,7 +33,9 @@ Francis Boabang, ”Enhanced Stochastic Gradient Descent Algorithm for Machine L
 and Its Application in Remote Surgical Gesture Recognition,” under review at 
 IEEE Transactions on Neural Networks and Learning Systems.
 
-**Related Work***
+**Related Work**
+
+
 H. Huynhnguyen and U. A. Buy, "Toward Gesture Recognition in Robot-Assisted Surgical Procedures," 2020 2nd International Conference on Societal Automation (SA), Funchal, Portugal, 2021, pp. 1-4,
 
 Chen, Jinghui, et al. "Closing the generalization gap of adaptive gradient methods in training deep neural networks." arXiv preprint arXiv:1806.06763 (2018).
